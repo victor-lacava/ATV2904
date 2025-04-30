@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+body{
+    background-color: burlywood;
+}
+
+header {
+    /*background-color: rgb(255, 124, 244);*/
+    width: 1000px;
+    height: 70px;
+    margin: auto;
+}
+
+nav{
+    /*background-color: rgb(71, 255, 86);*/
+    width: 350px;
+    height: 45px;
+    float: right;
+    padding: 25px 0 0 70px;
+}
+
+#imgLogo{
+    /*background-color: blue;*/
+    width: 400px;
+    height: 70px;
+}
+
+h1{
+    color: crimson;
+    padding: 15px 0 0 0px;
+    font-style: italic;
+}
+
+#banner{
+    background-color: yellow;
+    background-image: url(../IMG/pexels-pixabay-38568.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+
+/*Section 01 sobre*/
+#containerSobre{
+    /*background-color: pink;*/
+    width: 1000px;
+    height: 400px;
+    margin: auto;
+
+}
+
+#txtSobre{
+    /*background-color: blue;*/
+    width: 600px;
+    height: 400px;
+    float: right;
+}
+
+
+
+#imgSobre{
+    /*background-color: aquamarine;*/
+    background-image: url(../IMG/gabinete-odyssey_1.png);
+    background-size: cover;
+    width: 350px;
+    height: 400px;
+}
+
+#ajimgSobre{
+    width:  350px;
+
+}
+
+#TxtTitulo{
+    padding: 50px 0 0 0;
+}
